@@ -1,6 +1,6 @@
 [![N|Header](https://user-images.githubusercontent.com/73840306/191827738-862c8cc9-6b3a-4e67-8c9a-b1483a8ecef3.png)](https://www.linkedin.com/company/iassoftware/)
 # Angular routing
-![Banner](./Banner.png)  
+![Banner](https://github.com/Jhonnathan0314/angular-routing-article/blob/main/images/Banner.png?raw=true)  
 *Imagen tomada de: [Routing of an Angular Component | Angular Routing](https://javascript.plainenglish.io/routing-of-an-angular-component-angular-routing-2b7e53046542)*
 
 ## **1. Conceptos clave**
