@@ -1,5 +1,6 @@
+[![N|Header](https://user-images.githubusercontent.com/73840306/191827738-862c8cc9-6b3a-4e67-8c9a-b1483a8ecef3.png)](https://www.linkedin.com/company/iassoftware/)
 # Angular routing
-![Banner](./images/Banner.png)  
+![Banner](./Banner.png)  
 *Imagen tomada de: [Routing of an Angular Component | Angular Routing](https://javascript.plainenglish.io/routing-of-an-angular-component-angular-routing-2b7e53046542)*
 
 ## **1. Conceptos clave**
@@ -36,10 +37,10 @@
 
 ## **3. AppRoutingModule**
 #### Cuando se crea un proyecto en angular con el comando `ng new angular-routing` y generando Angular Routing, se crea un proyecto de angular con el módulo principal, el componente principal y el App Routing Module principal de la aplicación.
-![App component](./images/appComponent.png)
+![App component](https://github.com/Jhonnathan0314/angular-routing-article/blob/main/images/appComponent.png?raw=true)
 
 #### Suponiendo un proyecto con la estructura
-![Project structure](./images/projectStructure.png)
+![Project structure](https://github.com/Jhonnathan0314/angular-routing-article/blob/main/images/projectStructure.png?raw=true)
 #### En donde create, product-all, update son componentes que pertenecen al módulo product y login un componente independiente (Stand Alone).
 
 #### El archivo ***app-routing.module.ts*** tiene una estructura compuesta por:
